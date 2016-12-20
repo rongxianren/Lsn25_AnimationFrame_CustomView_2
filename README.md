@@ -1,0 +1,3 @@
+# Lsn25_AnimationFrame_CustomView_2
+自定义动画框架之 时差动画
+通过自定义LayoutInflater 手动设置 工厂类Factory，然后重写里里面的createViw方法，在方法里获取系统控件身上的，自定义属性，最终实现想要的结果
